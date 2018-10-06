@@ -1,0 +1,56 @@
+html, body {
+    margin: 5px;
+    font-family: "Verdana", sans-serif;
+    font-size: 12px;
+}
+a {
+    color: #0079bc;
+    text-decoration: none;
+}
+strong {
+    text-decoration: underline;
+}
+em {
+    font-style: normal;
+    text-decoration: underline;
+}
+li {
+    line-height: 20px;
+}
+.box {
+    padding: 0.7rem;
+    background: lavender;
+}
+header {
+    margin-left: 1rem;
+}
+#membros {
+    width: 22rem;
+    padding: 0;
+}
+#membros h2 {
+    margin: 0.5rem;
+}
+#membros ul {
+    list-style-type: none;
+    padding-left: 1rem;
+}
+#indice {
+    margin: 3rem;
+    margin-left: 5rem;
+    width: 22rem;
+}
+#indice h2 {
+    margin-left: 0.5rem;
+    margin-top: 0.7rem;
+}
+#indice ol {
+    list-style-type: lower-alpha;
+    padding-left: 1.5rem;
+}
+#trabalho {
+    margin: 1rem;
+}
+.item {
+    margin-top: 2.7rem;
+}
