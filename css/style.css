@@ -15,7 +15,7 @@ em {
     text-decoration: underline;
 }
 li {
-    line-height: 20px;
+    line-height: 1.6rem;
 }
 .box {
     padding: 0.7rem;
@@ -37,8 +37,8 @@ header {
 }
 #indice {
     margin: 3rem;
-    margin-left: 5rem;
-    width: 22rem;
+    margin-left: 60px;
+    width: 264px;
 }
 #indice h2 {
     margin-left: 0.5rem;
