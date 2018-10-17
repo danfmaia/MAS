@@ -25,8 +25,7 @@ header {
     margin-left: 1rem;
 }
 #membros {
-/*    width: 22rem; */
-    padding: 0;
+
 }
 #membros h2 {
     margin: 0.5rem;
@@ -38,6 +37,7 @@ header {
 #indice {
     margin: 3rem;
     margin-left: 60px;
+    width: 600px;
 /*    width: 264px; */
 }
 #indice h2 {
@@ -46,7 +46,7 @@ header {
 }
 #indice ol {
     list-style-type: lower-alpha;
-    padding-left: 100px;
+    padding-left: 30px;
 }
 #trabalho {
     margin: 1rem;
