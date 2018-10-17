@@ -15,7 +15,7 @@ em {
     text-decoration: underline;
 }
 li {
-/*    line-height: 1.6rem; */
+    line-height: 1.6rem;
 }
 .box {
     padding: 0.7rem;
@@ -46,7 +46,7 @@ header {
 }
 #indice ol {
     list-style-type: lower-alpha;
-    padding-left: 1.5rem;
+    padding-left: 30px;
 }
 #trabalho {
     margin: 1rem;
