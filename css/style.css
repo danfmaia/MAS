@@ -3,6 +3,9 @@ html, body {
     font-family: "Verdana", sans-serif;
     font-size: 12px;
 }
+#cabecario h1 {
+    font-size: 2rem;
+}
 
 a {
     color: #0079bc;
@@ -37,7 +40,7 @@ header {
     margin-left: 60px;
 }
 #indice h1 {
-    
+    font-size: 1.3rem;
     margin-left: 0.5rem;
     margin-top: 0.7rem;
 }
