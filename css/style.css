@@ -35,10 +35,8 @@ header {
     padding-left: 1rem;
 }
 #indice {
-    margin: 3rem;
+    margin: 3rem 60px;
     margin-left: 60px;
-    width: 600px;
-/*    width: 264px; */
 }
 #indice h2 {
     margin-left: 0.5rem;
@@ -53,4 +51,7 @@ header {
 }
 .item {
     margin-top: 2.7rem;
+}
+.item h2 {
+    font-size: 1.2rem;
 }
